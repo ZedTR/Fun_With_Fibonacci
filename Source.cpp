@@ -1,5 +1,5 @@
 /*
-Name :Zaid  Rashid
+Name :Zed Trzcinski
 Class: CST 223
 Assign: 1
 Professor: Sandeep Koranne
